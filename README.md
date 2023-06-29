@@ -1,4 +1,4 @@
-# [PET-PROJECT] Optical Character Recognition of Medical Documents for “DonorSearch”.
+# Optical Character Recognition of Medical Documents for “DonorSearch”.
 
 ### Направления деятельности: CV, OCR.
 ### Заказчик: сообщество доноров крови “DonorSearch”.
